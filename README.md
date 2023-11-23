@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Halunreal
-- 👀 I’m interested to learn how to create games and architetury renders in unreal engine
-- 🌱 I’m currently learning just Blender
+- 👋 Hi, I’m @Haley-WoU
+- Learning Coding
 - I'm a brazillian and don't speak english so much, so sorry for the bad leanguage
