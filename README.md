@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Haley-WoU
-- Learning Coding
-- I'm a brazillian and don't speak english so much, so sorry for the bad language
+
